@@ -1,0 +1,12 @@
+@media only screen and (max-width: 75em) {
+    .container {
+        width: 95%;
+    }
+}
+@media (max-width:47em) {
+    .bot{
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
